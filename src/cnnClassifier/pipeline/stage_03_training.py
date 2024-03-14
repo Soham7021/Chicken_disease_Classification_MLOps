@@ -4,7 +4,7 @@ from cnnClassifier.components.training import Training
 from cnnClassifier import logger
 
 
-
+STAGE_NAME = "Training"
 class ModelTrainingPipeline:
     def __init__(self):
         pass
