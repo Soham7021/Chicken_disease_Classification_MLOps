@@ -14,4 +14,9 @@
 9. Update the dvc.yaml
 
 
-
+# To run
+1. git bash in the folder
+2. code .
+3. conda activate chicken i.e your environment
+4. python app.py
+5. if you want to train the pipeline /train after the port
